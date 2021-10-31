@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @timpanister, real name Jenny Tan.
-- 👀 I’m interested in data, music (classical music especially) and I also cycle (I own a Brompton and a Carryme bike). My day job is as a lecturer in an institution of higher learning in Singapore. I have a background in the life sciences.
-- 🌱 I’ve been learning data analytics and data science during my free time. It started in late 2019 when I was tasked to analyse timetable data from the institution to provide insights into class size and space utilisation in my other role as the timetabling chair of the institution. That resulted in guidance on optimal class size and facility planning. That data analytics journey started with Excel and Power BI, discovering the magic of Power Query. When COVID 19 struck in 2020, my Power Query skills and database understanding soared to greater heights while trying to juggle with a heavy teaching workload. Nevertheless I signed up for the AI for Industry programme, a Singapore govt initative, where I was to complete a prescribed series of mostly Datacamp courses to Python. I went beyond the list of the courses required, and completed many DataCamp career tracks in Python and R, obviously taking data science like a duck to water. 
-- 💞️ I’m looking to collaborate on anything.
+- :wave: Hi, my name is Jenny.
+- :heart: I love classical music :musical_note: and cycling (owner of a Brompton and a Carryme) :biking_woman: . A couple of years ago, I also found myself taking to data like a duck to water. I completed plenty of online courses (DataCamp, Udemy, and Udacity) within a short span of time. 
+- :woman_teacher:  My day job is a lecturer in a polytechnic in Singapore. My background is in the life sciences :dna:.
+- :brain: I’m looking to collaborate on anything.
 - 📫 How to reach me 
+    - [LinkedIn](https://www.linkedin.com/in/jenny-tan-brompton/)
+    - [Tableau Public](https://public.tableau.com/app/profile/jenny.tan7023#!/?newProfile=&activeTab=0)
+
+
+[![Jenny's github stats](https://github-readme-stats.vercel.app/api?username=timpanister&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timpanister)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 timpanister/timpanister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
