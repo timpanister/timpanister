@@ -1,4 +1,4 @@
-- :wave: Hi, my name is Jenny.
+# :wave: Hi, my name is Jenny
 - :heart: I love classical music :musical_note: and cycling (owner of a Brompton and a Carryme) :biking_woman: . A couple of years ago, I also found myself taking to data like a duck to water. I completed plenty of online courses (DataCamp, Udemy, and Udacity) within a short span of time. 
 - :woman_teacher:  My day job is a lecturer in a polytechnic in Singapore. My background is in the life sciences :dna:.
 - :brain: I’m looking to collaborate on anything.
